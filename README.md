@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent)
 
 - 👋 Hi, I’m @MrKakharov
 - 👀 I’m interested in ...
