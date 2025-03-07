@@ -6,11 +6,9 @@
 | :--: | :--: | :--: |
 | `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent) | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
 
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrKakharov&repo=github-readme-stats)](https://github.com/MrKakharov/github-readme-stats)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5ab8e848a567c52776b9e5130d8cdb4d)](https://gist.github.com/MrKakharov/5ab8e848a567c52776b9e5130d8cdb4d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov)](https://github.com/anuraghazra/github-readme-stats)
 
