@@ -4,11 +4,9 @@
 
 | | |
 | :--: | :--: |
-| `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent) | `transparent` [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5ab8e848a567c52776b9e5130d8cdb4d&theme=transparent)](https://gist.github.com/MrKakharov/5ab8e848a567c52776b9e5130d8cdb4d) |
+| `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=neon) | `transparent` [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5ab8e848a567c52776b9e5130d8cdb4d&theme=neon)](https://gist.github.com/MrKakharov/5ab8e848a567c52776b9e5130d8cdb4d) |
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov&theme=transparent)](https://github.com/anuraghazra/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov&theme=neon)](https://github.com/MrKakharov/)
 
 - 👋 Hi, I’m @MrKakharov
 - 👀 I’m interested in ...
