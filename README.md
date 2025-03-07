@@ -8,7 +8,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov&theme=transparent)](https://github.com/anuraghazra/)
 
 - 👋 Hi, I’m @MrKakharov
 - 👀 I’m interested in ...
