@@ -1,4 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent)
+## Stats
+
+> These themes works with all five our cards: Stats Card, Repo Card, Gist Card, Top languages Card and WakaTime Card.
+
+| | | |
+| :--: | :--: | :--: |
+| `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent) | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrKakharov&repo=github-readme-stats)](https://github.com/MrKakharov/github-readme-stats)
 
