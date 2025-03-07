@@ -3,12 +3,10 @@
 > These themes works with all five our cards: Stats Card, Repo Card, Gist Card, Top languages Card and WakaTime Card.
 
 | | | |
-| :--: | :--: | :--: |
-| `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent) | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
+| :--: | :--: |
+| `default` ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&theme=transparent) | `transparent` [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5ab8e848a567c52776b9e5130d8cdb4d)](https://gist.github.com/MrKakharov/5ab8e848a567c52776b9e5130d8cdb4d) |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrKakharov&repo=github-readme-stats)](https://github.com/MrKakharov/MrKakharov.github.io)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5ab8e848a567c52776b9e5130d8cdb4d)](https://gist.github.com/MrKakharov/5ab8e848a567c52776b9e5130d8cdb4d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKakharov)](https://github.com/anuraghazra/github-readme-stats)
 
