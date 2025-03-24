@@ -1,22 +1,22 @@
-### 👋 Assalomu alaykum! Men Jaxongir Kaxarovman!
+### 👋 Hi! I'm Jakhongir Kakharov!
 
-###### _Chose language: [[ ru ]](ru/README_ru.md) [[ en ]](en/README_en.md)_
+###### _Choose language: [[ ru ]](../ru/README_ru.md) [[ 🇺🇿 ]](../README.md)_
 
-🚀 **Kod yozish - san’at, men esa dasturchiman!**
-
----
-
-### 🔥 Haqimda qisqacha:
-- 💻 **Backend** va **Frontend** dasturlashga qiziqaman
-- 🤖 Sun’iy intellekt va **Machine Learning** haqidagi bilimlarni o’rganyapman
-- 🛠 Hozir **[loyiha nomi]** ustida ishlayapman
-- 📚 Yangi texnologiyalarni o‘rganishni yaxshi ko‘raman
-- 💡 Kreativ g‘oyalar va startaplar bilan shug‘ullanish yoqadi
-- 1С dasturlash tilida ham ishlayman
+🚀 **Programming is an art, and I am a developer!**
 
 ---
 
-### ⚙️ Mening texnologiyalarim:
+### 🔥 About me:
+- 💻 Interested in **Backend** and **Frontend** development
+- 🤖 Learning artificial intelligence and **Machine Learning**
+- 🛠 Currently working on the **[project name]**
+- 📚 Love learning new technologies
+- 💡 Passionate about creative ideas and startups
+- Work with the 1C programming language
+
+---
+
+### ⚙️ My Technologies:
 
 ![1C Enterprise](https://img.shields.io/badge/-1C-FFD702?style=flat-square&logo=1C&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Mening statistikalarim:
+### 📊 My Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&show_icons=true&theme=tokyonight)
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 Menga bog‘lanish:
+### 📫 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jakhongir_kakharov)
@@ -49,4 +49,4 @@
 
 ---
 
-**🚀 Har kuni yangi kod yozish – kelajak sari qadam!**
+**🚀 Writing code every day is a step into the future!**

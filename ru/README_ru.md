@@ -1,22 +1,22 @@
-### 👋 Assalomu alaykum! Men Jaxongir Kaxarovman!
+### 👋 Привет! Я Джахонгир Кахаров!
 
-###### _Chose language: [[ ru ]](ru/README_ru.md) [[ en ]](en/README_en.md)_
+###### _Выберите язык: [[ en ]](../en/README_en.md) [[ 🇺🇿 ]](../README.md)_
 
-🚀 **Kod yozish - san’at, men esa dasturchiman!**
-
----
-
-### 🔥 Haqimda qisqacha:
-- 💻 **Backend** va **Frontend** dasturlashga qiziqaman
-- 🤖 Sun’iy intellekt va **Machine Learning** haqidagi bilimlarni o’rganyapman
-- 🛠 Hozir **[loyiha nomi]** ustida ishlayapman
-- 📚 Yangi texnologiyalarni o‘rganishni yaxshi ko‘raman
-- 💡 Kreativ g‘oyalar va startaplar bilan shug‘ullanish yoqadi
-- 1С dasturlash tilida ham ishlayman
+🚀 **Программирование — это искусство, а я — разработчик!**
 
 ---
 
-### ⚙️ Mening texnologiyalarim:
+### 🔥 Коротко обо мне:
+- 💻 Интересуюсь **Backend** и **Frontend** разработкой
+- 🤖 Изучаю искусственный интеллект и **Machine Learning**
+- 🛠 Сейчас работаю над проектом **[название проекта]**
+- 📚 Люблю изучать новые технологии
+- 💡 Увлекаюсь креативными идеями и стартапами
+- Работаю с языком программирования 1С
+
+---
+
+### ⚙️ Мои технологии:
 
 ![1C Enterprise](https://img.shields.io/badge/-1C-FFD702?style=flat-square&logo=1C&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Mening statistikalarim:
+### 📊 Моя статистика:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrKakharov&show_icons=true&theme=tokyonight)
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 Menga bog‘lanish:
+### 📫 Связаться со мной:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jakhongir_kakharov)
@@ -49,4 +49,4 @@
 
 ---
 
-**🚀 Har kuni yangi kod yozish – kelajak sari qadam!**
+**🚀 Писать код каждый день — шаг в будущее!**
