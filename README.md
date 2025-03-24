@@ -1,4 +1,4 @@
-### 👋 Assalomu alaykum! Men [Ismingiz]!
+### 👋 Assalomu alaykum! Men Jaxongir Kaxarovman!
 
 🚀 **Kod yozish - san’at, men esa dasturchiman!**
 
@@ -6,10 +6,11 @@
 
 ### 🔥 Haqimda qisqacha:
 - 💻 **Backend** va **Frontend** dasturlashga qiziqaman
-- 🤖 Sun’iy intellekt va **Machine Learning** haqida o’rganaman
+- 🤖 Sun’iy intellekt va **Machine Learning** haqidagi bilimlarni o’rganyapman
 - 🛠 Hozir **[loyiha nomi]** ustida ishlayapman
 - 📚 Yangi texnologiyalarni o‘rganishni yaxshi ko‘raman
 - 💡 Kreativ g‘oyalar va startaplar bilan shug‘ullanish yoqadi
+- 1С dasturlash tilida ham ishlayman
 
 ---
 
